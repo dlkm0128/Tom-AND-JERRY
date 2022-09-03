@@ -3,18 +3,24 @@ class script(object):
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/+wHX4yUfmj91iNmJl>Fɪʟᴍʏ Hᴀʀʙᴏᴜʀ</a>
-✯ Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ
-✯ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
-✯ DᴀᴛᴀBᴀsᴇ: MᴏɴɢᴏDB
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: Rᴀɪʟᴡᴀʏ
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
+    ABOUT_TXT = """╭•━━━━━━━━━━━━━━━➣ 
+║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+║┣⪼❈ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/AFxSU>⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ</a>
+║┣⪼❈ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+║┣⪼❈ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+║┣⪼❈ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+║┣⪼❈ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: RAILWAY
+║┣⪼❈ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1[𝙱𝙴𝚃𝙰]
+╰•━━━━━━━━━━━━━━━➣
+ 
+"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/Joelkb/DQ-The-File-Donor">ʜᴇʀᴇ</a>
-Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a></b>"""
+- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/EvamariaTG/EvaMaria">𝚁𝙴𝙿𝙾</a>
+
+★𝐃𝐄𝐕𝐒★
+- <a href="https://t.me/Crazy_Lolan">ΛJΛƧ</a></b>
+- <a href="https://t.me/mr_d_fox">mr_d_fox</a></b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
 <b>ɴᴏᴛᴇ:</b>
@@ -122,31 +128,28 @@ Nᴀᴍᴇ - {}
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {}😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ.❤️
 
-Jᴏɪɴ Oᴜʀ <a href='https://t.me/+LJRsBp82HiJhNDhl'>Mᴀɪɴ Cʜᴀɴɴᴇʟ</a> Bᴇʟᴏᴡ Tᴏ Gᴇᴛ Aᴄᴄᴇss Tᴏ Tʜᴇ Mᴏᴠɪᴇs. Bᴇғᴏʀᴇ Rᴇᴏ̨ᴜᴇsᴛɪɴɢ Tʜᴇ Mᴏᴠɪᴇs, Mᴜsᴛ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ. Oɴʟʏ Bʏ Jᴏɪɴɪɴɢ Wɪʟʟ Yᴏᴜ Gᴇᴛ Aᴄᴄᴇss Tᴏ Aʟʟ Tʜᴇ Mᴏᴠɪᴇs...
+Jᴏɪɴ Oᴜʀ <a href='https://t.me/at3_movies'>Mᴀɪɴ Cʜᴀɴɴᴇʟ</a> Bᴇʟᴏᴡ Tᴏ Gᴇᴛ Aᴄᴄᴇss Tᴏ Tʜᴇ Mᴏᴠɪᴇs. Bᴇғᴏʀᴇ Rᴇᴏ̨ᴜᴇsᴛɪɴɢ Tʜᴇ Mᴏᴠɪᴇs, Mᴜsᴛ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ. Oɴʟʏ Bʏ Jᴏɪɴɪɴɢ Wɪʟʟ Yᴏᴜ Gᴇᴛ Aᴄᴄᴇss Tᴏ Aʟʟ Tʜᴇ Mᴏᴠɪᴇs...
 
 NB: Yᴏᴜ Cᴀɴ Oɴʟʏ Gᴇᴛ Tʜᴇ Mᴏᴠɪᴇ Bʏ Tʏᴘɪɴɢ Iɴ Tʜᴇ Cᴏʀʀᴇᴄᴛ Sᴘᴇʟʟɪɴɢ...
 
 Iғ Yᴏᴜ Dᴏ Nᴏᴛ Gᴇᴛ Tʜᴇ Mᴏᴠɪᴇ / Sᴇʀɪᴇs, Mᴇɴᴛɪᴏɴ Tʜᴇ Aᴅᴍɪɴ Iɴ Tʜᴇ Fᴏʟʟᴏᴡɪɴɢ Fᴏʀᴍᴀᴛ 👇
 
-🤷 Exᴀᴍᴘʟᴇ: @admin Avengers
+🤷 Exᴀᴍᴘʟᴇ: @admin master
 
 Wᴇ Dᴏ Nᴏᴛ Oᴡɴ Aɴʏ Cᴏɴᴛᴇɴᴛ Pᴏsᴛᴇᴅ Hᴇʀᴇ. Wᴇ Oɴʟʏ Sʜᴀʀᴇ Tʜᴏsᴇ Fɪʟᴇs Wʜɪᴄʜ Aʀᴇ Aʟʀᴇᴀᴅʏ Sʜᴀʀᴇᴅ Bʏ Sᴏᴍᴇʙᴏᴅʏ Eʟsᴇ Oɴ Tʜᴇ Iɴᴛᴇʀɴᴇᴛ
 ⚠️ Iꜰ Yᴏᴜ Oᴡɴ Tʜᴇ Cᴏᴘʏʀɪɢʜᴛs Oꜰ Aɴʏ Sᴛᴜꜰꜰ, Iɴᴛɪᴍᴀᴛᴇ Us Wɪᴛʜ Pʀᴏᴏꜰ Wᴇ Wɪʟʟ Rᴇᴍᴏᴠᴇ
 
-Dᴏ Nᴏᴛ Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ Dɪʀᴇᴄᴛʟʏ...
+If You Want Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ, Pʟᴇᴀsᴇ Sᴇɴᴅ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ @AFxSU @mr_d_fox @Crazy_Lolan
 
-Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ, Pʟᴇᴀsᴇ Sᴇɴᴅ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ @assistant_m4_bot Aɴᴅ Tʜᴇ Bᴏᴛ Wɪʟʟ Dᴇʟɪᴠᴇʀ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ Tʜᴇ Gʀᴏᴜᴘ Aᴅᴍɪɴ...
-
-<a href='https://t.me/filmy_harbour_support'>Iғ Yᴏᴜ Aʀᴇ Fᴀᴄɪɴɢ Aɴʏ Pʀᴏʙʟᴇᴍs Wɪᴛʜ Oᴜʀ Mᴏᴠɪᴇ Fɪʟᴇs, Bᴏᴛs Oʀ Gʀᴏᴜᴘs, Rᴇᴘᴏʀᴛ Iᴛ Iɴ Oᴜʀ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ @filmy_harbour_support</a>
-
+<a href='https://t.me/botsupportp '>Iғ Yᴏᴜ Aʀᴇ Fᴀᴄɪɴɢ Aɴʏ Pʀᴏʙʟᴇᴍs Wɪᴛʜ Oᴜʀ Mᴏᴠɪᴇ Fɪʟᴇs, Bᴏᴛs Oʀ Gʀᴏᴜᴘs, Rᴇᴘᴏʀᴛ Iᴛ Iɴ Oᴜʀ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ @botsupportp</a>
 Fᴏʀ Aᴅᴍɪɴ Sᴜᴘᴘᴏʀᴛ Tʏᴘᴇ @admin Wɪᴛʜ Yᴏᴜʀ Mᴇssᴀɢᴇ Aɴᴅ Tʜᴇ Bᴏᴛ Wɪʟʟ Fᴏʀᴡᴀʀᴅ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ Tʜᴇ Aᴅᴍɪɴ...</b>
 """
 
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+•  ɴᴀᴍᴇ : AFSU
+• ᴜꜱᴇʀɴᴀᴍᴇ : @AFxSU
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : '>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 """
 
