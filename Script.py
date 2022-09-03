@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ 🍿🎬AT3 movies🎬🍿 Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ
-😉Ⱡł₣Ɇ ł₴ VɆⱤɎ ₴ⱧØⱤ₮ ₦₳₦฿₳😜(message.from_user.mention)</b>"""
+😉Ⱡł₣Ɇ ł₴ VɆⱤɎ ₴ⱧØⱤ₮ ₦₳₦฿₳😜{message.from_user.mention}</b>"""
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """╭•━━━━━━━━━━━━━━━➣ 
