@@ -1,11 +1,12 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+    START_TXT = """Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ 🍿🎬AT3 movies🎬🍿 Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ
+😉Ⱡł₣Ɇ ł₴ VɆⱤɎ ₴ⱧØⱤ₮ ₦₳₦฿₳😜{query.from_user.first_name}</b>"""
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """╭•━━━━━━━━━━━━━━━➣ 
 ║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-║┣⪼❈ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/AFxSU>⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ</a>
+║┣⪼❈ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: {query.from_user.first_name}
+║┣⪼❈ DEVELOPER: <a href=https://t.me/AFxSU>⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ</a>
 ║┣⪼❈ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼❈ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼❈ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
