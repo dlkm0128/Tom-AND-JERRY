@@ -4,8 +4,8 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """╭•━━━━━━━━━━━━━━━➣ 
-║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-║┣⪼❈ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: {query.from_user.first_name}
+║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: JOHN DURAIRAJ
+║┣⪼❈ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: {}
 ║┣⪼❈ DEVELOPER: <a href=https://t.me/AFxSU>⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ</a>
 ║┣⪼❈ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼❈ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
