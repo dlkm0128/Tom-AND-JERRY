@@ -157,6 +157,8 @@ Fᴏʀ Aᴅᴍɪɴ Sᴜᴘᴘᴏʀᴛ Tʏᴘᴇ @admin Wɪᴛʜ Yᴏᴜʀ Mᴇss
 """
 
     OWNER_INFO = """
+reply_markup = InlineKeyboardMarkup(buttons)      
+await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA")
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ▰▱▱▱▱▱▱▱▱▱▱▱▰
 •  ɴᴀᴍᴇ : ⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ🇮🇳
