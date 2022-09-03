@@ -156,9 +156,9 @@ If You Want Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ, Pʟᴇᴀsᴇ Sᴇɴᴅ Tʜᴇ Mᴇs
 Fᴏʀ Aᴅᴍɪɴ Sᴜᴘᴘᴏʀᴛ Tʏᴘᴇ @admin Wɪᴛʜ Yᴏᴜʀ Mᴇssᴀɢᴇ Aɴᴅ Tʜᴇ Bᴏᴛ Wɪʟʟ Fᴏʀᴡᴀʀᴅ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ Tʜᴇ Aᴅᴍɪɴ...</b>
 """
 
-    OWNER_INFO = """
-reply_markup = InlineKeyboardMarkup(buttons)      
-await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA")
+    OWNER_INFO =reply_markup = InlineKeyboardMarkup(buttons)      
+        await message.reply_chat_action("Typing")
+        m=await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA") """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ▰▱▱▱▱▱▱▱▱▱▱▱▰
 •  ɴᴀᴍᴇ : ⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ🇮🇳
