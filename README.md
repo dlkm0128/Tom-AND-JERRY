@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/6e5419246195836bab6ee.jpg" alt="JD Logo">
 </p>
 <h1 align="center">
-  <b>DQ-The-File-Donor Bot</b>
+  <b>JD-AUTO-FILLTER</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+JD-The-File-Donor!;Created+by⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ🇮🇳;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
