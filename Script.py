@@ -150,7 +150,8 @@ Iғ Yᴏᴜ Dᴏ Nᴏᴛ Gᴇᴛ Tʜᴇ Mᴏᴠɪᴇ / Sᴇʀɪᴇs, Mᴇɴᴛɪ
 Wᴇ Dᴏ Nᴏᴛ Oᴡɴ Aɴʏ Cᴏɴᴛᴇɴᴛ Pᴏsᴛᴇᴅ Hᴇʀᴇ. Wᴇ Oɴʟʏ Sʜᴀʀᴇ Tʜᴏsᴇ Fɪʟᴇs Wʜɪᴄʜ Aʀᴇ Aʟʀᴇᴀᴅʏ Sʜᴀʀᴇᴅ Bʏ Sᴏᴍᴇʙᴏᴅʏ Eʟsᴇ Oɴ Tʜᴇ Iɴᴛᴇʀɴᴇᴛ
 ⚠️ Iꜰ Yᴏᴜ Oᴡɴ Tʜᴇ Cᴏᴘʏʀɪɢʜᴛs Oꜰ Aɴʏ Sᴛᴜꜰꜰ, Iɴᴛɪᴍᴀᴛᴇ Us Wɪᴛʜ Pʀᴏᴏꜰ Wᴇ Wɪʟʟ Rᴇᴍᴏᴠᴇ
 
-If You Want Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ, Pʟᴇᴀsᴇ Sᴇɴᴅ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ @AFxSU @mr_d_fox @Crazy_Lolan
+If You Want Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ,
+                   Pʟᴇᴀsᴇ Sᴇɴᴅ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ @AFxSU 
 
 <a href='https://t.me/botsupportp '>Iғ Yᴏᴜ Aʀᴇ Fᴀᴄɪɴɢ Aɴʏ Pʀᴏʙʟᴇᴍs Wɪᴛʜ Oᴜʀ Mᴏᴠɪᴇ Fɪʟᴇs, Bᴏᴛs Oʀ Gʀᴏᴜᴘs, Rᴇᴘᴏʀᴛ Iᴛ Iɴ Oᴜʀ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ @botsupportp</a>
 Fᴏʀ Aᴅᴍɪɴ Sᴜᴘᴘᴏʀᴛ Tʏᴘᴇ @admin Wɪᴛʜ Yᴏᴜʀ Mᴇssᴀɢᴇ Aɴᴅ Tʜᴇ Bᴏᴛ Wɪʟʟ Fᴏʀᴡᴀʀᴅ Tʜᴇ Mᴇssᴀɢᴇ Tᴏ Tʜᴇ Aᴅᴍɪɴ...</b>
@@ -158,7 +159,7 @@ Fᴏʀ Aᴅᴍɪɴ Sᴜᴘᴘᴏʀᴛ Tʏᴘᴇ @admin Wɪᴛʜ Yᴏᴜʀ Mᴇss
 
     OWNER_INFO ="""<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ▰▱▱▱▱▱▱▱▱▱▱▱▰
-•  ɴᴀᴍᴇ : ⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ🇮🇳
+•  ɴᴀᴍᴇ : AFSU
 • ᴜꜱᴇʀɴᴀᴍᴇ : @AFxSU </b> 
 ▰▱▱▱▱▱▱▱▱▱▱▱▰ 
    
