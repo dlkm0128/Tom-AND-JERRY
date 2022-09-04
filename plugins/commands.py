@@ -22,7 +22,7 @@ BATCH_FILES = {}
 async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
-                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=CAACAgUAAxkBAAEFwNNjFHRA5DSb5XRkJ6K3JvAAAeGb41EAAgsAA8EkMTG1Uu8kMP4p0CkE')
+                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'CAACAgUAAxkBAAEFwNNjFHRA5DSb5XRkJ6K3JvAAAeGb41EAAgsAA8EkMTG1Uu8kMP4p0CkE')
                 ],[
                     InlineKeyboardButton('♚ Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/at3movies')
