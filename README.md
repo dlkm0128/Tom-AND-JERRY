@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/c0fac562fe786c6a824f8.jpg" alt="Tom And Jerry Logo">
 </p>
 <h1 align="center">
-  <b>JD-AUTO-FILLTER</b>
+  <b>TOM AND JERRY</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+JD-The-File-Donor!;Created+by⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ🇮🇳;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
