@@ -56,7 +56,6 @@ async def start(client, message):
                     InlineKeyboardButton('✇ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url='https://t.me/at3_movies')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)  
-        await message.reply_chat("Typing")    
         await message.reply_sticker("CAACAgIAAxkBAAEFwl1jFch8E4Oj4gPdVMkcQeIYOwABoIAAAlQWAALQe0FJ_LlY2fNGVigpBA") 
         await asyncio.sleep(1)
         await m.delete()     
@@ -107,8 +106,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url='https://t.me/at3_movies')
                   ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await message.reply_chat("Typing")      
+        reply_markup = InlineKeyboardMarkup(buttons)     
         await message.reply_sticker("CAACAgIAAxkBAAEFwl1jFch8E4Oj4gPdVMkcQeIYOwABoIAAAlQWAALQe0FJ_LlY2fNGVigpBA") 
         await asyncio.sleep(1) 
         await m.delete()      
