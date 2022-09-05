@@ -59,10 +59,10 @@ async def start(client, message):
         await message.reply_sticker("CAACAgIAAxkBAAEFwl1jFch8E4Oj4gPdVMkcQeIYOwABoIAAAlQWAALQe0FJ_LlY2fNGVigpBA") 
         await asyncio.sleep(1)
         await m.delete() 
-               ],[
+               [[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
   
-                ],[
+                ]]
 
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -115,10 +115,10 @@ async def start(client, message):
         await message.reply_sticker("CAACAgIAAxkBAAEFwl1jFch8E4Oj4gPdVMkcQeIYOwABoIAAAlQWAALQe0FJ_LlY2fNGVigpBA") 
         await asyncio.sleep(1) 
         await m.delete() 
-                ],[
+                 [[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
   
-                ],[
+                ]]
 
         await message.reply_photo(
             photo=random.choice(PICS),
