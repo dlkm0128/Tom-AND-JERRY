@@ -59,19 +59,11 @@ async def start(client, message):
         await message.reply_sticker("CAACAgIAAxkBAAEFwl1jFch8E4Oj4gPdVMkcQeIYOwABoIAAAlQWAALQe0FJ_LlY2fNGVigpBA") 
         await asyncio.sleep(1)
         await m.delete() 
-                 [
               [
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
   
-                    ]
-           ]
-
-        await message.reply_photo(
-            photo=random.choice(PICS),
-            caption=START_MESSAGE.format(user=message.from_user.mention, bot=temp.B_LINK),
-            reply_markup=reply_markup,
-            parse_mode='html'
-        )
+                         ]
+       
         return
     if AUTH_CHANNEL and not await is_subscribed(client, message):
         try:
@@ -117,19 +109,10 @@ async def start(client, message):
         await message.reply_sticker("CAACAgIAAxkBAAEFwl1jFch8E4Oj4gPdVMkcQeIYOwABoIAAAlQWAALQe0FJ_LlY2fNGVigpBA") 
         await asyncio.sleep(1) 
         await m.delete() 
-                 [
               [
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
   
-                ]
-            ]
-
-        await message.reply_photo(
-            photo=random.choice(PICS),
-            caption=START_MESSAGE.format(user=message.from_user.mention, bot=temp.B_LINK),
-            reply_markup=reply_markup,
-            parse_mode='html'
-        )
+                      ]
         return
     data = message.command[1]
     try:
