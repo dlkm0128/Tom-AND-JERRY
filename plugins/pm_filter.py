@@ -488,35 +488,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
-
         await query.message.edit_text(
-
-            text="▣▢▢"
-
-        )
-
-        await query.message.edit_text(
-
-            text="▣▣▢"
-
-        )
-
-        await query.message.edit_text(
-
-            text="▣▣▣"
-
-        )
-
-        
-        await query.message.edit_text(
-
             text=script.HELP_TXT.format(query.from_user.mention),
-
             reply_markup=reply_markup,
-
-            parse_mode='html'
-
-       )
+            parse_mode=enums.ParseMode.HTML
+        )
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/at3movies'),
@@ -527,15 +503,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
-         await query.message.edit_text(
-            text="▣ ▢ ▢"
-        )
-        await query.message.edit_text(
-            text="▣ ▣ ▢"
-        )
-        await query.message.edit_text(
-            text="▣ ▣ ▣"
-        )
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
             reply_markup=reply_markup,
