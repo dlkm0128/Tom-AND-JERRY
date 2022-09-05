@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """╭•━━━━━━━━━━━━━━━➣ 
-║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: JOHN DURAIRAJ
+║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: TOM AND JERRY
 ║┣⪼❈ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁:  <a href=https://t.me/AFxSU>THIS PERSON</a>
 ║┣⪼❈ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼❈ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
