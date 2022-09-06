@@ -17,7 +17,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 """
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/EvamariaTG/EvaMaria">𝚁𝙴𝙿𝙾</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/crazyspiderat3/Tom-AND-JERRY">𝚁𝙴𝙿𝙾</a>
 
 ★𝐃𝐄𝐕𝐒★
 - <a href="https://t.me/Crazy_Lolan">ΛJΛƧ</a></b>
