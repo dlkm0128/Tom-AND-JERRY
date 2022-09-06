@@ -5,16 +5,16 @@
   <b>TOM AND JERRY</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+JD-The-File-Donor!;Created+by⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ🇮🇳;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Tom-AND-JERRY!;Created+by⚠️☬𝙴𝚁𝚁𝙾𝚁࿐ ᯤ🇮🇳;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
-[![Stars](https://img.shields.io/github/stars/Joelkb/DQ-The-File-Donor?style=flat-square&color=yellow)](https://github.com/Joelkb/DQ-The-File-Donor/stargazers)
-[![Forks](https://img.shields.io/github/forks/Joelkb/DQ-The-File-Donor?style=flat-square&color=orange)](https://github.com/Joelkb/DQ-The-File-Donor/fork)
-[![Size](https://img.shields.io/github/repo-size/Joelkb/DQ-The-File-Donor?style=flat-square&color=green)](https://github.com/Joelkb/DQ-The-File-Donor/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Joelkb/DQ-The-File-Donor)   
-[![Contributors](https://img.shields.io/github/contributors/Joelkb/DQ-The-File-Donor?style=flat-square&color=green)](https://github.com/Joelkb/DQ-The-File-Donor/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Joelkb/DQ-The-File-Donor/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Joelkb/DQ-The-File-Donor.svg)](https://stars.medv.io/Joelkb/DQ-The-File-Donor)
+[![Stars](https://img.shields.io/github/stars/crazyspiderat3/Tom-AND-JERRY?style=flat-square&color=yellow)](https://github.com/crazyspiderat3/Tom-AND-JERRY/stargazers)
+[![Forks](https://img.shields.io/github/forks/crazyspiderat3/Tom-AND-JERRY?style=flat-square&color=orange)](https://github.com/crazyspiderat3/Tom-AND-JERRY/fork)
+[![Size](https://img.shields.io/github/repo-size/Jcrazyspiderat3/Tom-AND-JERRY?style=flat-square&color=green)](https://github.com/crazyspiderat3/Tom-AND-JERRY/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/crazyspiderat3/Tom-AND-JERRY)   
+[![Contributors](https://img.shields.io/github/contributors/crazyspiderat3/Tom-AND-JERRY?style=flat-square&color=green)](https://github.com/crazyspiderat3/Tom-AND-JERRY/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/crazyspiderat3/Tom-AND-JERRY/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/crazyspiderat3/Tom-AND-JERRY.svg)](https://stars.medv.io/Joelkb/DQ-The-File-Donor)
 
 ## Features
 - [x] IMDB Template Set
@@ -104,13 +104,13 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Joelkb/DQ-The-File-Donor/blob/master/info.py) for more optional variables
+* Check [info.py](https://github.com/crazyspiderat3/Tom-AND-JERRY/blob/master/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/devilcomof/AT3OFFICAL">
+<a href="https://heroku.com/deploy?template=https://github.com/crazyspiderat3/Tom-AND-JERRY">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -126,7 +126,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/devilcomof/AT3OFFICAL
+git clone https://github.com/crazyspiderat3/Tom-AND-JERRY
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -139,8 +139,8 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=JoelTGX&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact&message=OnTelegram&color=critical)](https://telegram.me/creatorbeatz)
+* [![DEVOLOPER](https://img.shields.io/static/v1?label=JoelTGX&message=Github&color=critical)](https://github.com/crazyspiderat3/Tom-AND-JERRY)
+* [![Contact](https://img.shields.io/static/v1?label=Contact&message=OnTelegram&color=critical)](https://telegram.me/AFxSU)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
