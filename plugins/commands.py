@@ -56,6 +56,8 @@ async def start(client, message):
                     InlineKeyboardButton('✇ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url='https://t.me/at3_movies')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)  
+       await message.reply_chat_action("Typing")
+await asyncio.sleep(2)
         m=await message.reply_sticker("CAACAgUAAxkBAAEFxbRjF4pwI0WqhsekQsPohBEBxeOD8gACBAADwSQxMYnlHW4Ls8gQKQQ") 
         await asyncio.sleep(1)
         await m.delete()
@@ -73,7 +75,7 @@ async def start(client, message):
             logger.error("Make sure Bot is admin in Forcesub channel")
             return
         btn = [
-            [
+            [.  
                 InlineKeyboardButton(
                     "❆ Jᴏɪɴ Oᴜʀ Bᴀᴄᴋ-Uᴘ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link
                 )
@@ -106,7 +108,9 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url='https://t.me/at3_movies')
                   ]]
-        reply_markup = InlineKeyboardMarkup(buttons)    
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await message.reply_chat_action("Typing")
+await asyncio.sleep(2)    
         m=await message.reply_sticker("CAACAgUAAxkBAAEFxbRjF4pwI0WqhsekQsPohBEBxeOD8gACBAADwSQxMYnlHW4Ls8gQKQQ") 
         await asyncio.sleep(1) 
         await m.delete() 
