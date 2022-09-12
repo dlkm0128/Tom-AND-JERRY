@@ -56,7 +56,7 @@ async def start(client, message):
                     InlineKeyboardButton('✇ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url='https://t.me/at3_movies')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)  
-        m=await message.reply_sticker("CAACAgUAAxkBAAEFxbRjF4pwI0WqhsekQsPohBEBxeOD8gACBAADwSQxMYnlHW4Ls8gQKQQ") 
+        m=await message.reply_sticker("CAACAgQAAxkBAAEFzk1jHp7A495Nsf6RdLxLqjtjeUqSMQACqAADjRtGJyQqYRoEj-JYKQQ") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -104,10 +104,10 @@ async def start(client, message):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url='https://t.me/at3_movies')
+                    InlineKeyboardButton('✇ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url='https://t.me/+ip38nA3Tm0A3MGRl')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)  
-        m=await message.reply_sticker("CAACAgUAAxkBAAEFxbRjF4pwI0WqhsekQsPohBEBxeOD8gACBAADwSQxMYnlHW4Ls8gQKQQ") 
+        m=await message.reply_sticker("CAACAgQAAxkBAAEFzk1jHp7A495Nsf6RdLxLqjtjeUqSMQACqAADjRtGJyQqYRoEj-JYKQQ") 
         await asyncio.sleep(1) 
         await m.delete() 
         await message.reply_photo(
@@ -248,7 +248,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/at3_movies"),
+                      InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/+ip38nA3Tm0A3MGRl"),
                       InlineKeyboardButton("💥 Sʜᴀʀᴇ 💥", url="https://t.me/botsupportp/3")
                     ],[
                       InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
@@ -291,7 +291,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/at3_movies"),
+              InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/+ip38nA3Tm0A3MGRl"),
               InlineKeyboardButton("💥 Sʜᴀʀᴇ 💥", url="https://t.me/botsupportp/3")
             ],[
               InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
