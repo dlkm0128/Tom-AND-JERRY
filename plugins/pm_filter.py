@@ -65,7 +65,7 @@ async def next_page(bot, query):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"👑[{get_size(file.file_size)}]👑{file.file_name}", callback_data=f'files#{file.file_id}'
+                    text=f"🧚‍♀[{get_size(file.file_size)}]🧚‍♀{file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
             ]
             for file in files
@@ -77,7 +77,7 @@ async def next_page(bot, query):
                     text=f"{file.file_name}", callback_data=f'files#{file.file_id}'
                 ),
                 InlineKeyboardButton(
-                    text=f"👑{get_size(file.file_size)}👑",
+                    text=f"🧚‍♀{get_size(file.file_size)}🧚‍♀",
                     callback_data=f'files_#{file.file_id}',
                 ),
             ]
@@ -493,7 +493,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/at3movies'),
+            InlineKeyboardButton('', url=''),
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', callback_data='source')
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
@@ -721,7 +721,7 @@ async def auto_filter(client, msg, spoll=False):
         btn = [
             [
                 InlineKeyboardButton(
-                    text=f"👑[{get_size(file.file_size)}]👑{file.file_name}", callback_data=f'{pre}#{file.file_id}'
+                    text=f"🧚‍♀[{get_size(file.file_size)}]🧚‍♀{file.file_name}", callback_data=f'{pre}#{file.file_id}'
                 ),
             ]
             for file in files
@@ -734,7 +734,7 @@ async def auto_filter(client, msg, spoll=False):
                     callback_data=f'{pre}#{file.file_id}',
                 ),
                 InlineKeyboardButton(
-                    text=f"👑{get_size(file.file_size)}👑",
+                    text=f"🧚‍♀{get_size(file.file_size)}🧚‍♀",
                     callback_data=f'{pre}#{file.file_id}',
                 ),
             ]
