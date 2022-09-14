@@ -21,16 +21,11 @@ BATCH_FILES = {}
 @Client.on_message(filters.command("start") & filters.incoming)
 async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
-        buttons = [[
-                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'https://t.me/at3moviesofficalbot?startgroup=true')
-                ],[
-                    InlineKeyboardButton('♚ Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/at3movies')
-                ],[
+        buttons = [[                   
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
-                ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url='https://t.me/at3_movies')
+                 ],[
+                                    InlineKeyboardButton('❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️', url='https://t.me/AFxSU')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
@@ -161,7 +156,7 @@ async def start(client, message):
                           InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/at3_movies"),
                           InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
                         ],[ 
-                          InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
+                          InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/AFxSU")
                          ]
                         ]
                     )
@@ -180,7 +175,7 @@ async def start(client, message):
                           InlineKeyboardButton("⚡ CHANNEL⚡", url="https://t.me/filmy_harbour"),
                           InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
                         ],[
-                          InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
+                          InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/AFxSU")
                          ]
                         ]
                     )
@@ -251,7 +246,7 @@ async def start(client, message):
                       InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/+ip38nA3Tm0A3MGRl"),
                       InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
                     ],[
-                      InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
+                      InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/AFxSU")
                      ]
                     ]
                 )
@@ -294,7 +289,7 @@ async def start(client, message):
               InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/+ip38nA3Tm0A3MGRl"),
               InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
             ],[
-              InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
+              InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/AFxSU")
              ]
             ]
         )
