@@ -25,7 +25,7 @@ async def start(client, message):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                  ],[
-                                    InlineKeyboardButton('❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️', url='https://t.me/AFxSU')
+                                    InlineKeyboardButton('😈ᴅᴇᴠᴏʟᴏᴘᴇʀ😈', url='https://t.me/AFxSU')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
