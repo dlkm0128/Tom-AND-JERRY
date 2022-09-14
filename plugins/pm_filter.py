@@ -387,9 +387,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
                             [
                              [
                               InlineKeyboardButton("⚡ CHANNEL⚡", url="https://t.me/at3_movies"),
-                              InlineKeyboardButton("💥 Sʜᴀʀᴇ 💥", url="https://t.me/botsupportp/3")
-                            ],[
                               InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
+                            ],[
+                              InlineKeyboardButton("😈ᴅᴇᴠᴏʟᴏᴘᴇʀ😈", url="https://t.me/AFxSU")
                              ]
                             ]
                         )
@@ -437,7 +437,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                   InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/at3_movies"),
                   InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
                 ],[
-                  InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
+                  InlineKeyboardButton("😈ᴅᴇᴠᴏʟᴏᴘᴇʀ😈", url="https://t.me/AFxSU")
                  ]
                 ]
             )
@@ -460,7 +460,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                  ],[
-                                    InlineKeyboardButton('❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️', url='https://t.me/AFxSU')
+                                    InlineKeyboardButton('😈ᴅᴇᴠᴏʟᴏᴘᴇʀ😈', url='https://t.me/AFxSU')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
