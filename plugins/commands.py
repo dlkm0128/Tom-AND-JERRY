@@ -159,9 +159,9 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/at3_movies"),
-                          InlineKeyboardButton("💥 Sʜᴀʀᴇ 💥", url="https://t.me/botsupportp/3")
-                        ],[ 
                           InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
+                        ],[ 
+                          InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
                          ]
                         ]
                     )
@@ -178,9 +178,9 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton("⚡ CHANNEL⚡", url="https://t.me/filmy_harbour"),
-                          InlineKeyboardButton("💥 Sʜᴀʀᴇ 💥", url="https://t.me/botsupportp/3")
+                          InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
                         ],[
-                          InlineKeyboardButton("🔰 JOIN GROUP 🔰 ", url="https://t.me/at3movies")
+                          InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
                          ]
                         ]
                     )
@@ -249,9 +249,9 @@ async def start(client, message):
                     [
                      [
                       InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/+ip38nA3Tm0A3MGRl"),
-                      InlineKeyboardButton("💥 Sʜᴀʀᴇ 💥", url="https://t.me/botsupportp/3")
-                    ],[
                       InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
+                    ],[
+                      InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
                      ]
                     ]
                 )
@@ -292,9 +292,9 @@ async def start(client, message):
             [
              [
               InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/+ip38nA3Tm0A3MGRl"),
-              InlineKeyboardButton("💥 Sʜᴀʀᴇ 💥", url="https://t.me/botsupportp/3")
-            ],[
               InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
+            ],[
+              InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
              ]
             ]
         )
