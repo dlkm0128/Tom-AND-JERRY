@@ -435,9 +435,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 [
                  [
                   InlineKeyboardButton("⚡ CHANNEL ⚡", url="https://t.me/at3_movies"),
-                  InlineKeyboardButton("💥 Sʜᴀʀᴇ 💥", url="https://t.me/botsupportp/3")
+                  InlineKeyboardButton("🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
                 ],[
-                  InlineKeyboardButton(" 🔰 JOIN GROUP 🔰", url="https://t.me/at3movies")
+                  InlineKeyboardButton("❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️", url="https://t.me/at3movies")
                  ]
                 ]
             )
@@ -456,15 +456,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-                    InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'https://t.me/at3moviesofficalbot?startgroup=true')
-                ],[
-                    InlineKeyboardButton('♚ Bᴏᴛ Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/at3movies')
-                ],[
+                    
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
-                ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Oᴜʀ Mᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url='https://t.me/at3_movies')
+                 ],[
+                                    InlineKeyboardButton('❤️෴D҉E҉V҉O҉L҉O҉P҉E҉R෴❤️', url='https://t.me/AFxSU')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
