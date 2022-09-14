@@ -8,8 +8,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,❤️‍🔥 𝘼𝙙𝙙 𝙈
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """╭•━━━━━━━━━━━━━━━➣ 
-║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: 
-║┣⪼❈ ᴅᴇᴠᴏʟᴏᴘᴇʀ:  <a href=https://t.me/AFxSU>¢rคຊฯ</a>
+║┣⪼❈ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙏𝙊𝙈 ⅋ ᴶᴱᴿᴿʸ
+║┣⪼❈ ᴅᴇᴠᴏʟᴏᴘᴇʀ: <a href=https://t.me/AFxSU>Cɾαȥყ</a>
 ║┣⪼❈ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼❈ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼❈ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -21,7 +21,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 """
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://www.instagram.com/invites/contact/?i=y6yhm2uqkd4o&utm_content=lwqtx3n">𝚁𝙴𝙿𝙾</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="https://GitHub.com">🔐</a>
 
 ★𝐃𝐄𝐕𝐒★
 - <a href="https://t.me/Crazy_Lolan">ΛJΛƧ</a></b>
