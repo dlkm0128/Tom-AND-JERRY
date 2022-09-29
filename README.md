@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/67942bf8e34202c233d34.jpg" alt="Tom And Jerry Logo">
+  <img src="https://telegra.ph/file/2183b863ad29c78515a48.jpg" alt="JD Logo">
 </p>
 <h1 align="center">
   <b>TOM AND JERRY</b>
