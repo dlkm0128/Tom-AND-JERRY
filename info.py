@@ -20,7 +20,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/6e5419246195836bab6ee.jpg https://telegra.ph/file/e3ae4ce0203fe70fc3325.jpg https://telegra.ph/file/4f9fa29991280047600be.jpg https://telegra.ph/file/972ffc83563f313e2d0e2.jpg ')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/2a25e6b9ea3f11ae21752.jpg https://graph.org/file/8ae45ecf0f5b84c6fc7a3.jpg https://graph.org/file/e4829c94fbdddca624691.jpg ')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/1da3fa6f5d071d93c1b4e.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/8df55b1434844adc1d9b5.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/7ac3ae66f3b60c9696859.mp4")
@@ -37,12 +37,12 @@ AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "movies")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'at3movies')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Movies_Request_TR')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
