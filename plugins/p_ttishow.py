@@ -37,9 +37,9 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-            InlineKeyboardButton('🤴ʙᴏᴛ ᴏᴡɴᴇʀ🤴', url=f'https://t.me/creatorbeatz'),
-            InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url='https://t.me/+wHX4yUfmj91iNmJl')
-        ],[InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url=f'https://t.me/+8i064A8O6zYzZWY1')]]
+            InlineKeyboardButton('🤴ʙᴏᴛ ᴏᴡɴᴇʀ🤴', url=f'https://t.me/Kali_TG'),
+            InlineKeyboardButton('🍿ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ🍿', url='https://t.me/Movies_Request_TR')
+        ],[InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url=f'https://t.me/Kali_TG')]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
             text=f"<b>Thankyou For Adding Me In {message.chat.title} ❣️\n\nIf you have any questions & doubts about using me contact support.</b>",
@@ -58,8 +58,8 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                                                                           InlineKeyboardButton("Support", url="https://t.me/+8i064A8O6zYzZWY1"),
-                                                                           InlineKeyboardButton("Main Channel", url="https://t.me/+LJRsBp82HiJhNDhl")
+                                                                           InlineKeyboardButton("Support", url="https://t.me/Kali_TG"),
+                                                                           InlineKeyboardButton("Main Channel", url="https://t.me/TamilRockerz_TR")
                                                                          
                                                                          ]]
                                                  ),
